@@ -1,0 +1,35 @@
+---
+course_id: 12-003-atmosphere-ocean-and-climate-dynamics-fall-2008
+layout: course_section
+parent_title: Labs
+title: 'GFDVII: Taylor columns'
+type: course
+uid: 24d4cd36fbeb5577419c4736518beeb6
+
+---
+
+Experiments: [0]({{< baseurl >}}/sections/labs/lab1) | [I]({{< baseurl >}}/sections/labs/lab1-07) | [II]({{< baseurl >}}/sections/labs/lab2) | [III]({{< baseurl >}}/sections/labs/lab3) | [IV]({{< baseurl >}}/sections/labs/lab4) | [V]({{< baseurl >}}/sections/labs/lab5) | [VI]({{< baseurl >}}/sections/labs/lab10) | VII | [VIII]({{< baseurl >}}/sections/labs/lab7) | [IX]({{< baseurl >}}/sections/labs/lab8) | [X]({{< baseurl >}}/sections/labs/lab9) | [XI]({{< baseurl >}}/sections/labs/lab11) | [XII]({{< baseurl >}}/sections/labs/lab12) | [XIII]({{< baseurl >}}/sections/labs/lab13) | [XIV]({{< baseurl >}}/sections/labs/lab14)
+
+The Taylor-Proudman theorem demands that vertical columns of fluid move along contours of constant fluid depth. Suppose a rotating, homogeneous fluid flows over a bump on a bottom boundary, as shown here.
+
+![Taylor column tank rotation](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/gfd_78.gif)
+
+Near the boundary, the flow must of course go around the bump. But the Taylor-Proudman theorem says that the flow must be the same at all heights: so, at all heights, the flow must be deflected as if the bump on the boundary extended all the way through the fluid! Thus, fluid columns act as if they were rigid columns and move along contours of constant fluid depth. We can demonstrate this behavior in the laboratory.
+
+We place a cylindrical tank of water on a rotating turntable. A few obstacles, none of which are taller than a small fraction of the depth of the water, are on the base of the tank. With f = 3 /s and h  = 10 cm we wait for the fluid to settle down and come in to solid body rotation and then carefully drop a few crystals of dye in to the water. Each crystal leaves a vertical dye streak as it falls. Note the vertical 'rigidity' of the fluid. 
+
+We sprinkle black dots over the surface to mark the fluid and reduce f to 2.9 /s. Until a new equilibrium is established (the "spin-down" process takes several minutes, depending on rotation rate and water depth) the water will be moving relative to the tank. We should be able to see the dots being diverted around the obstacles in a vertically coherent way (as shown schematically below) as if the obstacles extended all the way through the water, thus creating stagnant "Taylor columns" above the obstacles.
+
+![Tank experiment setup](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC006F2.jpg)
+
+![experiment schematic](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/gfd_79.gif)
+
+Below are a snapshot and a movie to show you what actually happens. It's a pretty tricky experiment - you have to practice hard to get it to work.
+
+Note that the black dots below are floating on the surface. The cylinder is submerged (see photograph above).
+
+**See the movie:**
+
+*   [Experiment VII: Taylor-Proudman Theorem]({{< baseurl >}}/sections/labs/lab6/experiment-vii-taylor-proudman-theorem)
+
+![experiment top view](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/DzlItem100.jpg)
